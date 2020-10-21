@@ -23,6 +23,12 @@ $(document).ready(function() {
   });
 });
 
+$(document).ready(function() {
+  $(".clickFun").click(function() {
+    $("#functions-showing").toggle();
+    $("#functions-hidden").toggle();
+  });
+});
 
 
 
