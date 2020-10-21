@@ -6,3 +6,41 @@
 #javascript-showing {
   display: none;
 }
+
+#operators-showing {
+  display: none;
+}
+
+#variables-showing {
+  display: none;
+}
+
+.clickJava {
+  text-decoration: underline;
+
+}
+
+.clickJava {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickOp {
+  text-decoration: underline;
+
+}
+
+.clickOp {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickVar {
+  text-decoration: underline;
+
+}
+
+.clickVar {
+  cursor: pointer;
+  color: #0088cc;
+}
